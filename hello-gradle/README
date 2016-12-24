@@ -1,0 +1,8 @@
+### Gradle test project
+
+
+to run:
+```
+gradle run --continuous
+
+```
